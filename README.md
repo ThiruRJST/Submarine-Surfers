@@ -5,10 +5,13 @@ Object detection model to find the center of the gate under water - PROTOTYPE
 
 
 **Team Name:** Deep-AI
+
 **Team Members:**
       1. Shouhaddo Paul
       2. Thirumalai Kumar
       3. Bala Ganesh R
+
+
 **Steps For Inference:**
 1. clone the repository using !git clone.
 2. Open the notebook file and use the predefined function to predict the center of the gate.
